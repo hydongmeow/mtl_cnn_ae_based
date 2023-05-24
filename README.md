@@ -6,6 +6,11 @@ Conference paper presented at https://usbereit.ieeesiberia.org/
 <br>
 *Model structure:*
 <br>
-## Visulization of MTL Model Structure
+Visulization of MTL Model Structure
 <br>
-![Viz.mtl](cnn_ae_fullmtl.png)
+
+![model_structure](cnn_ae_fullmtl.png)
+<br>
+Visulization of Base Model Structure
+<br>
+![model_structure](cnn_ae_basemodel.png)
